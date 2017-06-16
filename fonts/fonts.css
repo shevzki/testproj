@@ -1,0 +1,76 @@
+﻿	@font-face {
+			font-family: "OpenSansRegular";
+			src: url("../fonts/OpenSansRegular/OpenSansRegular.eot");
+			src: url("../fonts/OpenSansRegular/OpenSansRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+			url("../fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansLight";
+			src: url("../fonts/OpenSansLight/OpenSansLight.eot");
+			src: url("../fonts/OpenSansLight/OpenSansLight.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/OpenSansLight/OpenSansLight.woff") format("woff"),
+			url("../fonts/OpenSansLight/OpenSansLight.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansItalic";
+			src: url("../fonts/OpenSansItalic/OpenSansItalic.eot");
+			src: url("../fonts/OpenSansItalic/OpenSansItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/OpenSansItalic/OpenSansItalic.woff") format("woff"),
+			url("../fonts/OpenSansItalic/OpenSansItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansBold";
+			src: url("../fonts/OpenSansBold/OpenSansBold.eot");
+			src: url("../fonts/OpenSansBold/OpenSansBold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/OpenSansBold/OpenSansBold.woff") format("woff"),
+			url("../fonts/OpenSansBold/OpenSansBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansBoldItalic";
+			src: url("../fonts/OpenSansBoldItalic/OpenSansBoldItalic.eot");
+			src: url("../fonts/OpenSansBoldItalic/OpenSansBoldItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/OpenSansBoldItalic/OpenSansBoldItalic.woff") format("woff"),
+			url("../fonts/OpenSansBoldItalic/OpenSansBoldItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansRegularItalic";
+			src: url("../fonts/OpenSansRegularItalic/OpenSansRegularItalic.eot");
+			src: url("../fonts/OpenSansRegularItalic/OpenSansRegularItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/OpenSansRegularItalic/OpenSansRegularItalic.woff") format("woff"),
+			url("../fonts/OpenSansRegularItalic/OpenSansRegularItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+	
+			font-family: 'Conv_panton_light-caps';
+	
+			src: url('fonts/panton_light-caps.eot');
+
+			src: local('☺'), url('fonts/panton_light-caps.woff') format('woff'), 
+			url('fonts/panton_light-caps.ttf') format('truetype'),
+			url('fonts/panton_light-caps.svg') format('svg');
+
+			font-weight: normal;
+	
+			font-style: normal;
+
+	}
+
